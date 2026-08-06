@@ -51,15 +51,26 @@
 - Physical AI에서는 모델 크기를 줄이는 것과 실제 제어 루프 안에서 어떻게 동작하는지까지 함께 설계
 
 - 작은 backbone 선택후, 제어에 맞는 구조로 분리해서 설계하는 전략
-- 
+- on-device에 올리려 할 때, 모델이 똑똑한지보다 한 번의 제어 주기 안에 추론이 끝나는지가 더 중요
+- on-device 설계시 가장 먼저 봐야할 지표는 모델 파라미터 수보다 latency, throughput, 그리고 속도에서 성공률이 유지되는지이다
+- 기존 VLA가 느린 이유는 '7B 이상의 큰 비전-언어 모델에 의존'과 '행동을 autoregressive 방식으로 한 차원씩 순차 생성하는 점'
+- 지각과 언어 이해를 담당하는 백본과 실제 제어 출력을 담당하는 헤드를 분리해 각 부분을 속도 친화적으로 다시 설계
+- 작고 빠른 멀티모달 백본을 선택하고, 연속 제어에 맞는 별도 행동 출력을 붙이며, 양자화도 단순한 메모리 절약 관점이 아니라 제어 루프 속도 관점에서 선택해야 한다.
 
 - 액션 생성 구조 자체를 autogressive 방식에서 벗어나 제어 친화적으로 바꾸는 전략
+- 성능과 실시간성을 동시에 높이려면 autoregressive 액션 생성보다 parallel decoing으로 넘어가야 하며, 여기에 action chunking, continuous action, L1 regressionㅇ을 경합해야 한다
+- causal mask를 없애고 bidirectional attention 구조로 변환 -> 한 번의 forward pass만으로 전체 행동 시퀀스를 생성
+- continuous action 표현 사용으로 실제 제어값 자체를 바로 예측하게 하는 방식
 
 (on-device Physical AI 설계 핵심)
 1) 제한된 하드웨어에 맞는 backbone 선택
 2) 행동 출력 구조를 제어 친화적으로 설계
 3) 양자화와 경량화도 단순한 모델 압축이 아니라 실제 로봇의 제어 루프 안에서 평가해야 한다
 
+(논문)
+- [TinyVLA](https://arxiv.org/abs/2409.12514)
+- [OpenVLA-OFT](https://arxiv.org/abs/2502.19645): OpenVLA 기반으로 어떤 fine-tuning 방법이 실제 배포에 유리한지
+- []()
 
 ## Chapter 14. 
 
