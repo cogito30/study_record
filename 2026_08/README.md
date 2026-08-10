@@ -27,9 +27,10 @@
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
-| Mon(08.10) | 밑바닥부터 만들면서 배우는 LLM | Ch02 |  |  |  | 
+| Mon(08.10) | 밑바닥부터 만들면서 배우는 LLM(실습) | Ch02 | Ch02 | 05:00:32 | Pass(✔️) | 
 | Mon(08.10) | LLM from Scratch - Part 3. Transformers and Pretraining | Ch05 | Ch06 | 05:00:32 | Pass(✔️) | 
-| Tue(08.11) |  |  |  |  |  | 
+| Tue(08.11) | 밑바닥부터 만들면서 배우는 LLM | Ch03 | Ch04 |  |  | 
+| Tue(08.11) | LLM from Scratch - Part 3. Transformers and Pretraining(실습) |  |  |  |  | 
 | Wed(08.12) |  |  |  |  |  | 
 | Thu(08.13) |  |  |  |  |  | 
 | Fri(08.14) |  |  |  |  |  | 
