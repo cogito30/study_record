@@ -10,6 +10,7 @@
 
 ## 8월 1주차
 - Term: 2026.08.03-2026.08.07
+- Result: 2🟢 3🔴
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
@@ -24,6 +25,7 @@
 
 ## 8월 2주차
 - Term: 2026.08.10-2026.08.14
+- Result:
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
