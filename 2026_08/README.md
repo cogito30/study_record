@@ -34,8 +34,9 @@
 | Mon(08.10) | LLM from Scratch - Part 3. Transformers and Pretraining | Ch05 | Ch06 | 05:00:32 | Pass(✔️) | 
 | Tue(08.11) | X | X | X | 00:00:00 | Fail(❌) | 
 | Wed(08.12) | 밑바닥부터 만들면서 배우는 LLM(실습) | Ch03 | Ch05 |  |  | 
-| Wed(08.12) | 만들면서 배우는 생성 AI | Ch09 | Ch09 |  |  | 
-| Thu(08.13) |  |  |  |  |  | 
+| Wed(08.12) | 만들면서 배우는 생성 AI | Ch09 | Ch10 |  |  | 
+| Thu(08.13) | 밑바닥부터 만들면서 배우는 LLM(실습) | Ch06 | Ch07 |  |  | 
+| Thu(08.13) | 만들면서 배우는 생성 AI | Ch09 | Ch10 |  |  | 
 | Fri(08.14) |  |  |  |  |  | 
 
 ## 8월 3주차
