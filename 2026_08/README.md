@@ -6,7 +6,8 @@
 | 001 | (교재) 피지컬 AI 시스템 설계 | 엥지유니버스 | 2026.08.03 |  |  | 
 | 002 | (교재) 밑바닥부터 만들면서 배우는 LLM | 세바스찬 레시카 | 2026.08.05 |  |  | 
 | 003 | (교재) 파이토치 트랜스포머를 활용한 자연어 처리와 컴퓨터비전 심층학습 | 윤대희 외 3인 |  |  |  | 
-| 003 | (강의) LLM from Scratch - Part 3. Transformers and Pretraining | HongLab | 2026.08.06 |  |  | 
+| 004 | (교재) 만들면서 배우는 생성 AI | 윤대희 외 3인 | 2026.08.12 |  |  | 
+| 005 | (강의) LLM from Scratch - Part 3. Transformers and Pretraining | HongLab | 2026.08.06 |  |  | 
 
 ## 8월 1주차
 - Term: 2026.08.03-2026.08.07
@@ -33,7 +34,7 @@
 | Mon(08.10) | LLM from Scratch - Part 3. Transformers and Pretraining | Ch05 | Ch06 | 05:00:32 | Pass(✔️) | 
 | Tue(08.11) | X | X | X | 00:00:00 | Fail(❌) | 
 | Wed(08.12) | 밑바닥부터 만들면서 배우는 LLM(실습) | Ch03 | Ch05 |  |  | 
-| Wed(08.12) | LLM from Scratch - Part 3. Transformers and Pretraining(실습) | Ch06 | Ch06 |  |  | 
+| Wed(08.12) | 만들면서 배우는 생성 AI | Ch09 | Ch09 |  |  | 
 | Thu(08.13) |  |  |  |  |  | 
 | Fri(08.14) |  |  |  |  |  | 
 
