@@ -72,10 +72,38 @@
 - [OpenVLA-OFT](https://arxiv.org/abs/2502.19645): OpenVLA 기반으로 어떤 fine-tuning 방법이 실제 배포에 유리한지
 - []()
 
-## Chapter 14. 
+## Chapter 14. 디지털 트윈 환경 구축
 
-## Chapter 15. 
+(디지털 트윈 구축 방식)
+1) Real-to-Sim
+2) 생성형 시뮬레이션
+3) Real-Sim
 
-## Chapter 16. 
+(Real-to-Sim)
+- [GRS](https://arxiv.org/abs/2410.15536): 실제 이미지를 로봇 태스크 시뮬레이션으로 변환
+- [Splatting Physical Scenes](https://arxiv.org/abs/2506.04120): 시각 장면과 물리 시뮬레이션을 맞추기 위한 시도
+
+(생성형 시뮬레이션)
+- [Gen2Sim](https://arxiv.org/abs/2310.18308): 로봇 학습용 시뮬레이션 구성 요소 전체를 생성형 AI로 자동화하는 방법
+- [RoboTwin](https://arxiv.org/abs/2504.13059): 양팔 로봇 조작을 위한 생성형 디지털 트윈 벤치마크
+
+(Real-Sim)
+- [SyncTwin](https://arxiv.org/abs/2601.09920): 현실 세계의 물체 상태를 시뮬레이션 안에 계속 반영하는 문제
+- [TwinRL-VLA](https://arxiv.org/abs/2602.09023): 디지털 트윈을 강호학습의 탐색 공간을 넓히는 장치로 사용
+- [Real-to-Sim Policy Evaluation](https://arxiv.org/abs/2511.04665): 디지털 트윈을 학습 데이터 생성이 아닌 정책 평가에 초점을 두어 사용
+
+## Chapter 15. 지속 학습 시스템
+- 지속 학습 시스템의 핵심은 실패를 버리지 않고 기록하여 분석하는 것
+
+(데이터 운영 구조)
+- [Open X-Embodiment](https://arxiv.org/abs/2310.08864): 로봇 데이터의 운영 구조. 여러 곳에 흩어진 로봇 데이터를 하나로 모으는 시도
+- [DROID](https://droid-dataset.github.io/): 실제 현장과 가까운 환경에서 다양한 장면과 작업을 통해 로봇 조작 데이터를 대규모로 모은 사례
+
+(실패 데이터를 학습 자산으로 활용하는 법)
+- [Robot-Powered Data Flywheels](https://arxiv.org/abs/2511.19647): Foundation Model을 개선하는 데이터 생성기로 보고 접근
+- [MimicGen](https://arxiv.org/abs/2310.17596): 소수의 인간 시연을 바탕으로 대규모 로봇 시연 데이터를 자동 생성하는 시스템
+
+## Chapter 16. Physical AI 실습 with LeRobot Framework
+
 
 ## Chapter 17. 
