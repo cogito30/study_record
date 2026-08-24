@@ -1,8 +1,8 @@
 # 학습 기록
 
 ## Plan
-- (Min) 5 hour/day(week)
-- (Max) 10 hour/day(week)
+- (Min) 4 hour/day(week)
+- (Max) 6 hour/day(week)
 
 ## Book List
 
