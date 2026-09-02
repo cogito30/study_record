@@ -13,17 +13,19 @@
 
 ## 0월 1주차
 - Term: 2026.08.31-2026.09.04
+- Result: 0🟢 3🔴
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
 | Mon(08.31) | X | X | X | X | X | 
 | Tue(09.01) | X | X | X | X | X | 
-| Wed(09.02) |  |  |  |  |  | 
-| Thu(09.03) |  |  |  |  |  | 
+| Wed(09.02) | X | X | X | X | X | 
+| Thu(09.03) | OpenAPI와 스웨거를 활용한 실전 API 설계 |  |  |  |  | 
 | Fri(09.04) |  |  |  |  |  | 
 
 ## 9월 2주차
 - Term: 2026.09.07-2026.09.11
+- Result: 0🟢 0🔴
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
@@ -35,6 +37,7 @@
 
 ## 9월 3주차
 - Term: 2026.09.14-2026.09.18
+- Result: 0🟢 0🔴
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
@@ -46,6 +49,7 @@
 
 ## 9월 4주차
 - Term: 2026.09.21-2026.09.25
+- Result: 0🟢 0🔴
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
@@ -57,6 +61,7 @@
 
 ## 9월 5주차
 - Term: 2026.09.21-2026.09.25
+- Result: 0🟢 0🔴
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
