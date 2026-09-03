@@ -22,7 +22,7 @@
 
 ## 9월 2주차
 - Term: 2026.09.07-2026.09.11
-- Result: 0🟢 0🔴
+- Result: 1🟢 0🔴
 
 | No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
