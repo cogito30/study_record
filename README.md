@@ -119,11 +119,10 @@
 
 | No | Site | Lecture | Instructor | Begin | End |  Check(✅) | 
 | :--: | :--: | :--: | :--: | :--: | :--: | :--: | 
-| 001 | [HONG LAB](https://www.honglab.ai/) | LLM from Scratch: Part2 | 홍정모 |  |  |  | 
-| 002 | [HONG LAB](https://www.honglab.ai/) | LLM from Scratch: Part3 | 홍정모 |  |  |  | 
-| 003 | [DreamHack](https://dreamhack.io/) | 정보보안 로드맵 |  |  |  |  | 
-| 004 | [친절한 임베디드 시스템 개발자 되기](https://recipes.tistory.com/244) | 임베디드 |  |  |  |  | 
-| 005 | [회로설계 삼코치](https://www.inflearn.com/users/1020514/courses) | 반도체 설계 |  |  |  |  | 
+| 001 | [HONG LAB](https://www.honglab.ai/) | LLM from Scratch | 홍정모 |  |  |  | 
+| 002 | [DreamHack](https://dreamhack.io/) | 정보보안 로드맵 |  |  |  |  | 
+| 003 | [친절한 임베디드 시스템 개발자 되기](https://recipes.tistory.com/244) | 임베디드 |  |  |  |  | 
+| 004 | [회로설계 삼코치](https://www.inflearn.com/users/1020514/courses) | 반도체 설계 |  |  |  |  | 
 | 005 |  |  |  |  |  |  | 
 
 
