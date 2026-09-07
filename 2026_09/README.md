@@ -12,7 +12,7 @@
 - Term: 2026.08.31-2026.09.04
 - Result: 1🟢 4🔴
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
+| Date | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
 | Mon(08.31) | X | X | X | X | X | 
 | Tue(09.01) | X | X | X | X | X | 
@@ -32,7 +32,7 @@
 | Thu(09.10) |  |  | 
 | Fri(09.11) |  |  | 
 
-| No | Title | Chapter |  Time(hour:min:sec) | 
+| Date | Title | Chapter |  Time(hour:min:sec) | 
 | :--: | :--: | :--: | :--: | 
 | Mon(09.07) |  |  |  | 
 | Tue(09.08) |  |  |  | 
@@ -45,25 +45,43 @@
 - Term: 2026.09.14-2026.09.18
 - Result: 0🟢 0🔴
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Mon(09.14) |  |  |  |  |  | 
-| Tue(09.15) |  |  |  |  |  | 
-| Wed(09.16) |  |  |  |  |  | 
-| Thu(09.17) |  |  |  |  |  | 
-| Fri(09.18) |  |  |  |  |  | 
+| Date |  Total Time | Pass/Fail | 
+| :--: | :--: | :--: | 
+| Mon(09.14) |  |  | 
+| Tue(09.15) |  |  | 
+| Wed(09.16) |  |  | 
+| Thu(09.17) |  |  | 
+| Fri(09.18) |  |  | 
+
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Mon(09.14) |  |  |  | 
+| Tue(09.15) |  |  |  | 
+| Wed(09.16) |  |  |  | 
+| Thu(09.17) |  |  |  | 
+| Fri(09.18) |  |  |  | 
+
 
 ## 9월 4주차
 - Term: 2026.09.21-2026.09.25
 - Result: 0🟢 0🔴
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Mon(09.21) |  |  |  |  |  | 
-| Tue(09.22) |  |  |  |  |  | 
-| Wed(09.23) |  |  |  |  |  | 
-| Thu(09.24) |  |  |  |  |  | 
-| Fri(09.25) |  |  |  |  |  | 
+| Date |  Total Time | Pass/Fail | 
+| :--: | :--: | :--: | 
+| Mon(09.21) |  |  | 
+| Tue(09.22) |  |  | 
+| Wed(09.23) |  |  | 
+| Thu(09.24) |  |  | 
+| Fri(09.25) |  |  | 
+
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Mon(09.21) |  |  |  | 
+| Tue(09.22) |  |  |  | 
+| Wed(09.23) |  |  |  | 
+| Thu(09.24) |  |  |  | 
+| Fri(09.25) |  |  |  | 
+
 
 ## 9월 5주차
 - Term: 2026.09.21-2026.09.25
