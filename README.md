@@ -1,8 +1,13 @@
 # 학습 기록
 
 ## Plan
+
+#### 7월/8월
 - (Min) 4 hour/day(week)
 - (Max) 6 hour/day(week)
+
+#### 9월
+- (Min) 3 hour/day(week)
 
 ## Book List
 
