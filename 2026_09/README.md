@@ -44,7 +44,7 @@
 
 ## 9월 3주차
 - Term: 2026.09.14-2026.09.18
-- Result: 0🟢 0🔴
+- Result: 0🟢 1🔴
 
 | Date |  Total Time | Pass/Fail | 
 | :--: | :--: | :--: | 
