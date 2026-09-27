@@ -6,7 +6,7 @@
 - (Min) 4 hour/day(week)
 - (Max) 6 hour/day(week)
 
-#### 9월
+#### 9월/10월
 - (Min) 3 hour/day(week)
 
 ## Book List
