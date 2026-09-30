@@ -2,12 +2,9 @@
 
 ## Plan
 
-#### 7월/8월
-- (Min) 4 hour/day(week)
-- (Max) 6 hour/day(week)
-
-#### 9월/10월
-- (Min) 3 hour/day(week)
+- 7월/8월: 4 hour/day(week)
+- 9월: 3 hour/day(week)
+- 10월: 2hour/day(week)
 
 ## Book List
 
