@@ -4,7 +4,7 @@
 
 - 7월/8월: 4 hour/day(week)
 - 9월: 3 hour/day(week)
-- 10월: 2hour/day(week)
+- 10월: 2 hour/day(week)
 
 ## Book List
 
