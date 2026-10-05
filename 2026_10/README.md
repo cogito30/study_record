@@ -39,7 +39,7 @@
 
 ## 10월 2주차
 - Term: 2026.10.05-2026.10.09
-- Result: 0🟢 0🔴
+- Result: 0🟢 0🟡 0🔴
 
 | Date |  Total Time | Pass/Fail | 
 | :--: | :--: | :--: | 
