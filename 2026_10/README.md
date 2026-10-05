@@ -49,9 +49,9 @@
 | Thu(10.08) |  |  | 
 | Fri(10.09) |  |  | 
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
-| Mon(10.05) |  |  |  | 
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
+| Mon(10.05) | 파이썬 시계열 예측 분석 | Ch  |  | 
 | Tue(10.06) |  |  |  | 
 | Wed(10.07) |  |  |  | 
 | Thu(10.08) |  |  |  | 
@@ -70,8 +70,8 @@
 | Thu(10.15) |  |  | 
 | Fri(10.16) |  |  | 
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
 | Mon(10.12) |  |  |  | 
 | Tue(10.13) |  |  |  | 
 | Wed(10.14) |  |  |  | 
@@ -91,8 +91,8 @@
 | Thu(10.22) |  |  | 
 | Fri(10.23) |  |  | 
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
 | Mon(10.19) |  |  |  | 
 | Tue(10.20) |  |  |  | 
 | Wed(10.21) |  |  |  | 
@@ -112,8 +112,8 @@
 | Thu(10.29) |  |  | 
 | Fri(10.30) |  |  | 
 
-| No | Title | Begin | End |  Time(hour:min:sec) | Pass/Fail | 
-| :--: | :--: | :--: | :--: | :--: | :--: | 
+| Date | Title | Chapter |  Time(hour:min:sec) | 
+| :--: | :--: | :--: | :--: | 
 | Mon(10.26) |  |  |  | 
 | Tue(10.27) |  |  |  | 
 | Wed(10.28) |  |  |  | 
