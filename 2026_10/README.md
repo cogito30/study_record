@@ -20,10 +20,10 @@
 | Mon(09.28) | X | Fail(❌) | 
 | Tue(09.29) | X | Fail(❌) | 
 | Wed(09.30) | X | Fail(❌) | 
-| Thu(10.01) |  |  | 
-| Fri(10.02) |  |  | 
-| Sat(10.03) |  |  | 
-| Sun(10.04) |  |  | 
+| Thu(10.01) | X | Fail(❌) | 
+| Fri(10.02) | X | Fail(❌) | 
+| Sat(10.03) | X | Fail(❌) | 
+| Sun(10.04) | X | Fail(❌) | 
 
 
 | Date | Title | Chapter |  Time(hour:min:sec) | 
@@ -31,10 +31,10 @@
 | Mon(09.28) | X | X | X | 
 | Tue(09.29) | X | X | X | 
 | Wed(09.30) | X | X | X | 
-| Thu(10.01) |  |  |  | 
-| Fri(10.02) |  |  |  | 
-| Fri(10.03) |  |  |  | 
-| Fri(10.04) |  |  |  | 
+| Thu(10.01) | X | X | X | 
+| Fri(10.02) | X | X | X | 
+| Sat(10.03) | X | X | X | 
+| Sun(10.04) | X | X | X | 
 
 
 ## 10월 2주차
