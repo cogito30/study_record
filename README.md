@@ -2,9 +2,18 @@
 
 ## Plan
 
-- 7월/8월: 4 hour/day(week)
-- 9월: 3 hour/day(week)
-- 10월: 4 hour/day
+- 7월/8월: 4 hours/day(week)
+- 9월: 3 hours/day(week)
+- 10월: 2 hours/day
+
+| No | To Do | Detail | Begin | End |  Check(✅) | 
+| :--: | :--: | :--: | :--: | :--: | :--: | 
+| 001 | 전산회계 2급 | 자격증 시험 준비 | 2026.10.01 |  |  | 
+| 002 |  |  |  |  |  | 
+| 003 |  |  |  |  |  | 
+| 004 |  |  |  |  |  | 
+| 005 |  |  |  |  |  | 
+
 
 ## Book List
 
