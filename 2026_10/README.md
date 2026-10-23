@@ -95,23 +95,13 @@
 - Term: 2026.10.19-2026.10.23
 - Result: 0🟢 0🔴
 
-| Date |  Total Time | Pass/Fail | 
-| :--: | :--: | :--: | 
-| Mon(10.19) |  |  | 
-| Tue(10.20) |  |  | 
-| Wed(10.21) |  |  | 
-| Thu(10.22) |  |  | 
-| Fri(10.23) |  |  | 
-| Sat(10.24) |  |  | 
-| Sun(10.25) |  |  | 
-
-| Date | Title | Chapter |  Time(hour:min:sec) | 
+| Date | Title | Chapter |  Pass/Fail | 
 | :--: | :--: | :--: | :--: | 
-| Mon(10.19) |  |  |  | 
-| Tue(10.20) |  |  |  | 
-| Wed(10.21) |  |  |  | 
-| Thu(10.22) |  |  |  | 
-| Fri(10.23) |  |  |  | 
+| Mon(10.19) | X | X | Fail(❌) | 
+| Tue(10.20) | X | X | Fail(❌) | 
+| Wed(10.21) | X | X | Fail(❌) | 
+| Thu(10.22) | X | X | Fail(❌) | 
+| Fri(10.23) | X | X | Fail(❌) | 
 | Sat(10.24) |  |  |  | 
 | Sun(10.25) |  |  |  | 
 
@@ -138,4 +128,4 @@
 
 
 
-
+Xd
