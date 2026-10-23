@@ -5,6 +5,7 @@
 - 7월/8월: 4 hours/day(week)
 - 9월: 3 hours/day(week)
 - 10월: 2 hours/day
+- 11월: 2 hours/day
 
 | No | To Do | Detail | Begin | End |  Check(✅) | 
 | :--: | :--: | :--: | :--: | :--: | :--: | 
